@@ -1,0 +1,15 @@
+PODS:
+  - DeviceKit (1.0.0)
+  - UIColor_Hex_Swift (3.0.2)
+
+DEPENDENCIES:
+  - DeviceKit (~> 1.0)
+  - UIColor_Hex_Swift (~> 3.0.2)
+
+SPEC CHECKSUMS:
+  DeviceKit: ddead7f3a7c9603ba3a63cb748566428c38dd11f
+  UIColor_Hex_Swift: 95f718452092a3efc8a827dffd2c04d3237be02d
+
+PODFILE CHECKSUM: 50828c881976c66add1ca5541da1592f9f11d046
+
+COCOAPODS: 1.1.1
